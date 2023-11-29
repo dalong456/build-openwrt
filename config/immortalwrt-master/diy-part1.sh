@@ -11,4 +11,4 @@
 
 # other
 # rm -rf package/emortal/{autosamba,ipv6-helper}
-
+echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
