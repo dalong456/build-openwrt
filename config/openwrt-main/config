@@ -14,6 +14,8 @@ CONFIG_HOST_OS_LINUX=y
 # CONFIG_TARGET_ath79 is not set
 # CONFIG_TARGET_bcm27xx is not set
 CONFIG_TARGET_bcm53xx=y
+CONFIG_TARGET_bcm53xx_generic=y
+CONFIG_TARGET_bcm53xx_generic_Generic=y
 # CONFIG_TARGET_bcm47xx is not set
 # CONFIG_TARGET_bcm4908 is not set
 # CONFIG_TARGET_bcm63xx is not set
